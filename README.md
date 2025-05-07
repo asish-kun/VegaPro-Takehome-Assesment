@@ -100,7 +100,7 @@ mysql -u root -p taskdb < db/init.sql
 Layer | Tech 
 ----- | ----
 Frontend | React, Vite, TypeScript, TailwindCSS 
-Backend | Express.js, Sequelize ORM 
+Backend | Node.js, Express.js, Sequelize ORM 
 Database | MySQL 
 Dev Tools | ESLint, Prettier, PostCSS
 
