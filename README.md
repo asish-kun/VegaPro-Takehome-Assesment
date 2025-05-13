@@ -1,4 +1,4 @@
-# VegaPro Takehome Assessment
+# Notes-POC-App
 
 This is a full-stack Task Management application with:
 - ✅ **Frontend**: React + Vite + TailwindCSS (`priority-note-cards/`)
@@ -8,14 +8,14 @@ This is a full-stack Task Management application with:
 ## 🎥 Demo Video
 
 Watch the application in action:  
-[▶️ VegaPro Task Manager Demo](https://drive.google.com/file/d/1yNLk32yNJEryVSyCDDzRnirAFVBHHNzv/view?usp=sharing)
+[▶️ Notes-POC-Demo](https://drive.google.com/file/d/1yNLk32yNJEryVSyCDDzRnirAFVBHHNzv/view?usp=sharing)
 
 ---
 
 ## 📦 Project Structure
 
 ```
-VegaPro-Takehome-Assesment/
+Notes-POC-App/
 ├── backend/            # Express + Sequelize backend
 ├── priority-note-cards/ # React frontend UI
 ├── db/                 # init.sql for optional DB bootstrapping
@@ -105,4 +105,4 @@ Database | MySQL
 Dev Tools | ESLint, Prettier, PostCSS
 
 ## 🙌 Author
-Made with 💻 by Asish Nelapati
+💻 Asish Nelapati
